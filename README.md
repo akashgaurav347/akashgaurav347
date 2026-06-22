@@ -12,10 +12,5 @@
 - Machine Learning
 - Git & GitHub
 
-🚀 Projects:
-- FAQFusion AI
-- Malicious URL Detection
-- Smart Internship Finder
-
 📫 Reach Me:
 akashgaurav347@gmail.com
