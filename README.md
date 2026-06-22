@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Akash Gaurav
 
-<!--
-**akashgaurav347/akashgaurav347** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) @ GLA University
 
-Here are some ideas to get you started:
+🏆 Microsoft Certified: Azure AI Fundamentals (AI-900)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+- Python
+- Flask
+- Django
+- MySQL
+- Machine Learning
+- Git & GitHub
+
+🚀 Projects:
+- FAQFusion AI
+- Malicious URL Detection
+- Smart Internship Finder
+
+📫 Reach Me:
+akashgaurav347@gmail.com
